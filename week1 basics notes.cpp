@@ -19,6 +19,11 @@ int main() {
       char var4; // (1 byte) 8^2 = 256 ASCII characters
       bool var5; // 0 is false, everything else is true (1 byte, byte is faster to run than a bit )
 
+      // implicit typecasting
+      // the computer deciding what to assign a variable as
 
+      // explicit typecasting
+      // doing char() and changing something to be a variable
+  
       return 0;
 }
