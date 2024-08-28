@@ -1,4 +1,4 @@
-// Problem 2 - Solution
+// Problem 3 - Solution
 
 #include <iostream> // library needed for input and output 
 using namespace std; // set default namespace to std
