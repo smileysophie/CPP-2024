@@ -22,5 +22,5 @@ int main() // starting point of your code
 	// output
 	cout << "Result of comparison: " << compare << endl; // prints out the equality of the comparison for the two user inputted integers
 
-	return 0; // return 0 to the callet
+	return 0; // return 0 to the caller
 }
