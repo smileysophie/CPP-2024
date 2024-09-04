@@ -38,5 +38,5 @@ int main() // starting point of your code
 	cout << "Quotient of numbers (Y / X): " << quotient2 << endl; // prints out the quotient of y /x
 
 
-	return 0; // return 0 to the callet
+	return 0; // return 0 to the caller
 }
