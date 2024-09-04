@@ -19,7 +19,7 @@ int main() // starting point of your code
 	cout << "Please enter first number (X): "; // print this text to ask the user for a number
 	cin >> num1; // get input float value from the user and store into the variable named 'num1'
 	cout << "Please enter second number (Y): "; // print this text to ask the user for another number
-	cin >> num2; // get float integer value from the user and store into the variable named 'num2'
+	cin >> num2; // get input float value from the user and store into the variable named 'num2'
 
 	// process
 	equality = num1 == num2; // computes the result of an equality check and stores in the variable 'equality'
