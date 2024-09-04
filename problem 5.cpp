@@ -1,4 +1,4 @@
-// Problem 4 Solution
+// Problem 5 Solution
 
 #include <iostream> // library needed for input and output
 using namespace std; // set default namespace to std
@@ -18,7 +18,7 @@ int main() // starting point of your code
 	// input
 	cout << "Please enter first number (X): "; // print this text to ask the user for a number
 	cin >> num1; // get input integer value from the user and store into the variable named 'num1'
-	cout << "Please enter second number (Y)"; // print this text to ask the user for another number
+	cout << "Please enter second number (Y): "; // print this text to ask the user for another number
 	cin >> num2; // get input integer value from the user and store into the variable named 'num2'
 
 	// process
@@ -31,7 +31,12 @@ int main() // starting point of your code
 
 	// output
 	cout << "Sum of numbers (X + Y): " << sum << endl; // prints out the sum of the numbers
-	cout << "Difference of numbers (X - Y)"
+	cout << "Difference of numbers (X - Y): " << difference1 << endl; // prints out the difference of x - y
+	cout << "Difference of numbers (Y - X): " << difference2 << endl; // prints out the difference of y -x 
+	cout << "Product of numbers (X * Y): " << product << endl; // prints out the product of the numbers
+	cout << "Quotient of numbers (X / Y): " << quotient1 << endl; // prints out the quotient of x / y
+	cout << "Quotient of numbers (Y / X): " << quotient2 << endl; // prints out the quotient of y /x
+
 
 	return 0; // return 0 to the callet
 }
