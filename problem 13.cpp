@@ -14,10 +14,10 @@ int main() // starting point of your code
 	cin >> celsius_input; // get input floating point value from user and store into the variable named as 'celsius_input'
 
 	// process change this
-	fahrenheit_result = ((celsius_input - 32) * 5.0) / 9; // compute the result fahrenheit value using this formula 
+	fahrenheit_result = celsius_input * 9/5 + 32; // compute the result fahrenheit value using this formula 
 
 	// output
-	cout << "Temperature " <<  celsius_input << "F is " << fahrenheit_result << "-degrees Fahrenheit"; // print out the resultant converted temperatures
+	cout << "Temperature " << celsius_input << "C is " << fahrenheit_result << "-degrees Fahrenheit"; // print out the resultant converted temperatures
 
 	return 0; // return 0 to the caller
 }
