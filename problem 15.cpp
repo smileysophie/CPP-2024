@@ -8,7 +8,7 @@ int main() // starting point of your code
 	// declare variables
 	float input1 = 0.0; // declare a variable of type float named 'input1', intialized to 0.0
 	float input2 = 0.0; // declare a variable of type float named 'input2', intialized to 0.0
-	int square = 0; // declare a variable of type int named 'square', intialized to 0
+	float square = 0; // declare a variable of type float named 'square', intialized to 0
 
 	// input
 	cout << "Please enter first number: "; // print this text, to ask user for a number
