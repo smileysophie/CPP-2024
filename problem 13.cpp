@@ -13,7 +13,7 @@ int main() // starting point of your code
 	cout << "Please enter temperature in Celsius: "; // print this text, to ask user for a celsius temperature 
 	cin >> celsius_input; // get input floating point value from user and store into the variable named as 'celsius_input'
 
-	// process change this
+	// process
 	fahrenheit_result = celsius_input * 9/5 + 32; // compute the result fahrenheit value using this formula 
 
 	// output
