@@ -24,6 +24,21 @@ int main() {
 
       // explicit typecasting
       // doing char() and changing something to be a variable
+
+      // arithmetic operator:
+      // binary operators
+      // +,-,*,/,%
+      // unary operators
+      // ++, --, -, +
+      
+      // logical operators
+      // binary operators
+      // <,>,<=,>=,==,!=
+      // unary operator:
+      // !
+
+      // logical chains
+      // &&, || 
   
       return 0;
 }
