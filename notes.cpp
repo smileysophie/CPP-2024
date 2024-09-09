@@ -39,6 +39,11 @@ int main() {
 
       // logical chains
       // &&, || 
+
+      // loops
+      // while (top checking)
+      // for (top checking)
+      // do while (bottom checking)
   
       return 0;
 }
