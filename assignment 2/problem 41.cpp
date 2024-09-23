@@ -6,7 +6,7 @@ using namespace std; // set default namespace to std
 int main()
 {
 	// declare variables
-	float average = 0; // variable to keep track of the average of the user provided numbers
+	float average = 0.0; // variable to keep track of the average of the user provided numbers
 	int input = 0; // variable to store user inputted number
 	int count = 0;
 
