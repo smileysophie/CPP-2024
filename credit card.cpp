@@ -61,7 +61,7 @@ int main()
 		credit_num[i] = char_credit_num[i] - '0';
 
 	// process
-	// passes credit card number and size of array as argument to checkLuhn function
+	// passes credit card number to checkLuhn function
 	valid = creditLuhn(credit_num);
 
 	// output
