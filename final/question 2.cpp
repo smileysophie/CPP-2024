@@ -30,7 +30,6 @@ int main()
 {
 	// declare variables
 	const int maxLen = 100;
-	int size;
 	char str[maxLen];
 	bool value;
 
