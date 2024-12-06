@@ -6,7 +6,7 @@ int main()
 {
 	// declare variables
 	const int SIZE = 7;
-	int input_arr[SIZE] = {4, 4, 4, 1, 4, 2, 1};
+	int input_arr[SIZE] = {1, 3, 2, 1, 4, 2, 1};
 	int smallest = 1000000000;
 	int largest = 0;
 	bool flag = 0;
